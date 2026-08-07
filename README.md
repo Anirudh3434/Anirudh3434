@@ -1,171 +1,62 @@
-# Hi there, I'm Anirudh Bhardwaj 👋
+<div align="center">
 
-### Full-Stack Engineer • React • Node.js • Cloud • AI
+# Hi, I'm Anirudh Bhardwaj 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge" />
+### Full Stack & Mobile Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;React+%7C+React+Native+%7C+Node.js;Building+Scalable+Web+%26+Mobile+Applications;AI+%7C+Cloud+%7C+SaaS"/>
+
+<p>
+<a href="https://github.com/Anirudh3434">
+<img src="https://komarev.com/ghpvc/?username=Anirudh3434&style=flat-square&color=blue" />
+</a>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Engineer** passionate about building scalable web applications, SaaS products, cloud-native systems, and AI-powered solutions.
-
-I enjoy transforming ideas into production-ready software that is fast, secure, maintainable, and delivers real business value.
-
-Currently working at **Webatlas Technologies**, where I contribute across the complete software development lifecycle—from frontend experiences to backend architecture and cloud deployment.
-
----
-
-## 🚀 What I Build
-
-💼 SaaS Platforms
-
-🏢 Enterprise Applications
-
-📊 Business Management Systems
-
-👥 Customer & Admin Portals
-
-⚡ REST & GraphQL APIs
-
-🤖 AI Integrations
-
-☁️ Cloud Applications
-
-🔄 Business Automation
+- 💼 Full Stack & Mobile Engineer at **Webatlas**
+- 🚀 Building scalable Web, Mobile, SaaS & AI-powered applications
+- 🌱 Currently exploring **AI, System Design & Cloud Engineering**
+- 📍 Kaithal, Haryana, India
 
 ---
 
-# 🛠 Tech Stack
-
-### Frontend
+## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,postgres,mongodb,mysql,redis,aws,docker,git,github,vscode" />
 </p>
 
 ---
 
-# 💡 Engineering Principles
-
-* ✅ Clean Architecture
-* ✅ Scalable Solutions
-* ✅ Reusable Code
-* ✅ Performance Optimization
-* ✅ Security First
-* ✅ Excellent User Experience
-* ✅ Continuous Learning
-
----
-
-# 🌱 Currently Learning
-
-* 🤖 Artificial Intelligence
-* 🧠 Large Language Models (LLMs)
-* 🏗 System Design
-* ☁️ Cloud Engineering
-* 🚀 DevOps & Automation
-* 📈 Performance Optimization
-* 🔒 Secure Application Development
-
----
-
-# 📌 Featured Projects
-
-### 🚀 Project Name
-
-One-line description of the project.
-
-**Tech:** React • Node.js • PostgreSQL • AWS
-
----
-
-### 🚀 Project Name
-
-One-line description of the project.
-
-**Tech:** Next.js • Express • Redis
-
----
-
-### 🚀 Project Name
-
-One-line description of the project.
-
-**Tech:** React Native • Firebase
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anirudh3434&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh3434&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=Anirudh3434&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect
 
 <p>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+<a href="mailto:anigokala3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/Anirudh3434"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ---
 
-> **"Great software isn't defined by the complexity of its code—it is defined by the value it creates."**
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+> *"Building reliable software that creates real business value."*
